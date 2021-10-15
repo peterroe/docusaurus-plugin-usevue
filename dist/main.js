@@ -1,0 +1,1 @@
+(()=>{"use strict";Plugin=(u,e)=>({name:"docusaurus-plugin-usevue",configureWebpack:(u,e,s)=>({module:{rules:[{test:/\.vue$/,use:["vue-loader"]}]},plugins:[new VueLoaderPlugin]})})})();
