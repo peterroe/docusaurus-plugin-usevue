@@ -1,1 +1,1 @@
-(()=>{"use strict";Plugin=(u,e)=>({name:"docusaurus-plugin-usevue",configureWebpack:(u,e,s)=>({module:{rules:[{test:/\.vue$/,use:["vue-loader"]}]},plugins:[new VueLoaderPlugin]})})})();
+(()=>{var e={138:e=>{e.exports=(e,u)=>({name:"docusaurus-plugin-usevue",configureWebpack:(e,u,r)=>({module:{rules:[{test:/\.vue$/,use:["vue-loader"]}]},plugins:[new VueLoaderPlugin]})})}},u={};!function r(s){if(u[s])return u[s].exports;var o=u[s]={exports:{}};return e[s](o,o.exports,r),o.exports}(138)})();
