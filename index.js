@@ -3,8 +3,9 @@
  * @Author: 林舒恒
  * @Date: 2021-10-15 21:30:12
  * @LastEditors: 林舒恒
- * @LastEditTime: 2021-10-15 22:57:02
+ * @LastEditTime: 2021-10-16 12:41:09
  */
+const { VueLoaderPlugin } = require('vue-loader')
 
 module.exports = (content,options) => {
     return {
