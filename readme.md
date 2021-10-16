@@ -1,4 +1,4 @@
-# Intall
+# ⚡Intall
 
 ```shell
 yarn add docusaurus-plugin-usevue use-vue-component
@@ -22,7 +22,15 @@ module.exports = {
 
 # Usage
 
-test.vue:
+**directory structure:**
+
+```shell
++-- docs
+|   +-- test.vue
+|   +-- intro.mdx
+```
+
+**test.vue:**
 
 ```vue
 <template>
@@ -48,7 +56,7 @@ export default {
 </style>
 ```
 
-intro.mdx:
+**intro.mdx:**
 
 ```js
 ---
