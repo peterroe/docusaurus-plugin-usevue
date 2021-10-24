@@ -1,3 +1,6 @@
+![asdfdsf](https://img.shields.io/badge/docusaurus->=2.0.0--beta.6-success)
+![asdfdsf](https://img.shields.io/badge/Vue-2.6.14-brightgreen)
+
 # ⚡安装
 
 需要安装两个npm包：
