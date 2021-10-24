@@ -77,6 +77,6 @@ export const HelloWorld = uvc(test)  //转换
 <HelloWorld/>
 ```
 
-# render
+# 渲染结果
 
 ![df](https://img-blog.csdnimg.cn/a08bd8b839f44074a3f8b60da8af6e59.png)
