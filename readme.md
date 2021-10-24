@@ -12,12 +12,8 @@ yarn add docusaurus-plugin-usevue use-vue-component
 module.exports = {
   // ...
     plugins: [
-        [
-            'docusaurus-plugin-usevue',
-            {
-                name: 'usevue'
-            },
-        ],
+        //...
+        'docusaurus-plugin-usevue'
     ],
 };
 ```
