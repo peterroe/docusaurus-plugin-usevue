@@ -6,6 +6,8 @@
 yarn add docusaurus-plugin-usevue use-vue-component
 ```
 
+另一个插件地址：[use-vue-component](https://github.com/peterroe/use-vue-component)
+
 # 插件导入
 在**docusaurus.config.js**文件中，添加如下配置
 ```js
