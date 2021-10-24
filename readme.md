@@ -1,11 +1,13 @@
-# ⚡Intall
+# ⚡安装
+
+需要安装两个npm包：
 
 ```shell
 yarn add docusaurus-plugin-usevue use-vue-component
 ```
 
-# Import
-docusaurus.config.js:
+# 插件导入
+在**docusaurus.config.js**文件中，添加如下配置
 ```js
 module.exports = {
   // ...
@@ -20,9 +22,11 @@ module.exports = {
 };
 ```
 
-# Usage
+# 用法
 
-**directory structure:**
+例如有如下场景
+
+**目录结构:**
 
 ```shell
 +-- docs
@@ -30,7 +34,7 @@ module.exports = {
 |   +-- intro.mdx
 ```
 
-**test.vue:**
+**test.vue**内容：
 
 ```vue
 <template>
@@ -56,7 +60,7 @@ export default {
 </style>
 ```
 
-**intro.mdx:**
+**intro.mdx**内容:
 
 ```js
 ---
@@ -65,10 +69,10 @@ sidebar_position: 1
 
 ## Getting Started
 
-import {uvc} from 'use-vue-component'
-import test from './text.vue'
+import {uvc} from 'use-vue-component'  //引入转换包
+import test from './text.vue'  //引入vue组件
 
-export const HelloWorld = uvc(test)
+export const HelloWorld = uvc(test)  //转换
 
 <HelloWorld/>
 ```
