@@ -5,7 +5,7 @@ yarn add docusaurus-plugin-usevue use-vue-component
 ```
 
 # Import
-
+docusaurus.config.js:
 ```js
 module.exports = {
   // ...
@@ -13,7 +13,7 @@ module.exports = {
         [
             'docusaurus-plugin-usevue',
             {
-            name: 'usevue'
+                name: 'usevue'
             },
         ],
     ],
