@@ -7,6 +7,8 @@
 
 而本插件将帮助您在 Docusaurus 中渲染你编写 **Vue组件**
 
+[中文](https://github.com/peterroe/docusaurus-plugin-usevue/blob/master/readme.md) ｜ [English](https://github.com/peterroe/docusaurus-plugin-usevue/blob/master/readme.en.md)
+
 # ⚡安装
 
 需要安装两个npm包：
