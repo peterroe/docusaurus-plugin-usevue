@@ -5,7 +5,7 @@
 
 在组件方面， Docusaurus 仅仅原生支持渲染 **React组件**
 
-而本插件将帮助您在 Docusaurus 中渲染你编写 **Vue** 组件
+而本插件将帮助您在 Docusaurus 中渲染你编写 **Vue组件**
 
 # ⚡安装
 
