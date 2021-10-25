@@ -1,6 +1,12 @@
 ![asdfdsf](https://img.shields.io/badge/docusaurus->=2.0.0--beta.6-success)
 ![asdfdsf](https://img.shields.io/badge/Vue-2.6.14-brightgreen)
 
+🧐 Docusaurus 是一个**静态网站生成器**。它发挥了 **React** 的全部功能来构建具有快速客户端导航的 **单页应用**，从而赋予你的网站交互性。它提供了开箱即用的**文档功能**，还能用于创建**任何类型的网站**（例如个人网站、产品介绍、博客、营销页等等）
+
+在组件方面， Docusaurus 仅仅支持渲染 **React组件**
+
+而本插件将帮助您在 Docusaurus 中渲染你编写 **Vue** 组件
+
 # ⚡安装
 
 需要安装两个npm包：
