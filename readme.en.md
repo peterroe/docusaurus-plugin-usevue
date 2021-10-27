@@ -7,6 +7,8 @@ In terms of components, docusaurus only supports native rendering **react compon
 
 This plugin will help you render **Vue components** you write in docusaurus
 
+[中文](https://github.com/peterroe/docusaurus-plugin-usevue/blob/master/readme.md)｜ English
+
 # ⚡install
 
 Two **NPM packages** need to be installed:
@@ -91,3 +93,7 @@ export const HelloWorld = uvc(test)  //transform
 # Render results
 
 ![image](https://img-blog.csdnimg.cn/a08bd8b839f44074a3f8b60da8af6e59.png)
+
+# Update the log
+
+* :tada: V1.0.0 official version - support vue2

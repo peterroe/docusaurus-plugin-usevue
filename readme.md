@@ -7,7 +7,7 @@
 
 而本插件将帮助您在 Docusaurus 中渲染你编写 **Vue组件**
 
-[中文](https://github.com/peterroe/docusaurus-plugin-usevue/blob/master/readme.md) ｜ [English](https://github.com/peterroe/docusaurus-plugin-usevue/blob/master/readme.en.md)
+中文 ｜ [English](https://github.com/peterroe/docusaurus-plugin-usevue/blob/master/readme.en.md)
 
 # ⚡安装
 
@@ -89,3 +89,7 @@ export const HelloWorld = uvc(test)  //转换
 # 渲染结果
 
 ![df](https://img-blog.csdnimg.cn/a08bd8b839f44074a3f8b60da8af6e59.png)
+
+# 更新日志
+
+* :tada: V1.0.0 正式版 - 支持 vue2
